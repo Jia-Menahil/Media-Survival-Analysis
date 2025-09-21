@@ -1,7 +1,7 @@
 # Media-Survival-Analysis
 This project is done as a challenge by code basics resume challenges. It contains following files:
 - Data Cleaning File:
-- Answer of Ad hoc requests:
+- Answers of Ad hoc requests:
 - Primary Analysis: https://github.com/Jia-Menahil/Media-Survival-Analysis/blob/main/Primary_analysis.sql
 - Power BI Dashboard
 
