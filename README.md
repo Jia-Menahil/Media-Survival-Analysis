@@ -203,6 +203,23 @@ where engagement_rank_asc <= 3
 <img width="683" height="69" alt="Request 6" src="https://github.com/user-attachments/assets/a48b99d1-3ce8-43f3-b5c2-7ceaefcd5a03" />
 
 
+## Visualization Through Power BI
+
+The power bi report has 3 pages in total. 
+
+- Print Business Health 
+
+<img width="929" height="519" alt="Codebasics_dashboard_P1" src="https://github.com/user-attachments/assets/c47c4bf8-1d2b-4418-aa06-9b77e2f8f40f" />
+
+- Revenue Analysis
+
+<img width="930" height="521" alt="Codebasics_dashboard_P2" src="https://github.com/user-attachments/assets/19771ff3-acd6-48ef-b51b-fcb71181172a" />
+
+- Digital Performance 2021
+
+<img width="926" height="519" alt="Codebasics_dashboard_P3" src="https://github.com/user-attachments/assets/fe01bb2a-ffed-42b0-b0c2-f2b499b24f39" />
+
+
 # Primary Analysis
  ## 1. Print Circulation Trend
  What is the trend in copies printed, copies sold, and net circulation across all 
