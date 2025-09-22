@@ -213,7 +213,7 @@ The power bi report has 3 pages in total.
 
 - Revenue Analysis
 
-<img width="930" height="521" alt="Codebasics_dashboard_P2" src="https://github.com/user-attachments/assets/19771ff3-acd6-48ef-b51b-fcb71181172a" />
+<img width="927" height="519" alt="image" src="https://github.com/user-attachments/assets/fcd08b60-bc41-4db1-9056-8aad06f54da4" />
 
 - Digital Performance 2021
 
