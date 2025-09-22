@@ -275,3 +275,13 @@ Based on digital readiness, pilot engagement, and print decline, which 3 cities 
 prioritized for Phase 1 of the digital relaunch? 
 
 <img width="479" height="106" alt="Primarry Q 8" src="https://github.com/user-attachments/assets/0afb8864-bb63-4189-ab17-03b40f28deba" />
+
+
+## Connect with me 
+🙋 Author: Jia Menahil Rasheed
+
+LinkedIn: https://www.linkedin.com/in/jia-rasheed-b030962ba/
+
+Email: jiarasheed7@gmail.com
+
+#### ⭐ If you like this project, please give it a star!
