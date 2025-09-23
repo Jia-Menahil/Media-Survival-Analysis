@@ -1,0 +1,21 @@
+Business Request – 1: Monthly Circulation Drop Check 
+Generate a report showing the top 3 months (2019–2024) where any city recorded the 
+sharpest month-over-month decline in net_circulation. 
+
+Business Request – 2: Yearly Revenue Concentration by Category 
+Identify ad categories that contributed > 50% of total yearly ad revenue. 
+
+Business Request – 3: 2024 Print Efficiency Leaderboard 
+For 2024, rank cities by print efficiency = net_circulation / copies_printed. Return top 5. 
+
+Business Request – 4 : Internet Readiness Growth (2021) 
+For each city, compute the change in internet penetration from Q1-2021 to Q4-2021 
+and identify the city with the highest improvement. 
+
+Business Request – 5: Consistent Multi-Year Decline (2019→2024) 
+Find cities where both net_circulation and ad_revenue decreased every year from 2019 
+through 2024 (strictly decreasing sequences). 
+
+Business Request – 6 : 2021 Readiness vs Pilot Engagement Outlier 
+In 2021, identify the city with the highest digital readiness score but among the bottom 3 
+in digital pilot engagement. 
