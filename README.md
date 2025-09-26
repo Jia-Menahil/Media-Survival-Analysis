@@ -1,7 +1,7 @@
 # 📰 Media-Survival-Analysis 
 
 **Bharat Herald** is an Indian legacy newspaper facing an **existential crisis** after COVID-19, as competitors rapidly transitioned to the digital world.  
-This project analyzes the situation, answers the business questions using **SQL & Power BI**, and provides **strategic recommendations** for Bharat Herald to successfully step into the digital space, regain advertiser trust, and build a roadmap for digital transformation.
+This project analyzes the situation, answers the business questions using **SQL**, and provides **strategic recommendations** for Bharat Herald to successfully step into the digital space, regain advertiser trust, and build a roadmap for digital transformation.
 
 ---
 
