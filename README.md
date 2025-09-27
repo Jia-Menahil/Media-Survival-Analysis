@@ -46,7 +46,7 @@ This folder contains .pbix file and screenshots of power bi report <br>
 ### 🔹 Video Presentation
 
 Full walkthrough of problem, analysis, and recommendations. <br>
-[You Tube Video Presentation]() <br>
+[You Tube Video Presentation](https://youtu.be/XKdGMBOITao) <br>
 [LinkedIn Post]()
 
 ---
